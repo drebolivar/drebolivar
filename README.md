@@ -1,4 +1,7 @@
 ### Hi there 👋
+- 📫 How to reach me: dre.bolivar@gmail.com
+- 😄 Pronouns: he/him/his
+- ⚡ Fun fact: Has three different Simpsons tattoos, still planning on more
 
 <!--
 **drebolivar/drebolivar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

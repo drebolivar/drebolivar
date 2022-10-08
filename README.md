@@ -4,7 +4,7 @@ Hi 👋 My name is Andres 'Dre' Bolivar
 Full Stack Developer
 --------------------
 
-Creative minded professional with a drive for accomplishing goals and delivering meaningful outcomes. I am driven by a curiosity of how things work and that has provided the opportunity to learn something new every day. With a history in management, healthcare, and the film industry, I come with a unique experience of execution, empathy, and collaboration.
+Creative minded software engineer with a drive for creating, debugging, and delivering meaningful and aesthetically pleasing projects. Driven with a curiosity of how things work and an obsession with making it look "cool", I've been afforded the opportunity to learn something new every day and build upon my skill set. With a history in team management, healthcare , and the film, I come with a unique experience of  execution, empathy, and collaboration.
 
 * 🌍  I'm based in New York
 * ✉️  You can contact me at [dre.bolivar@gmail.com](mailto:dre.bolivar@gmail.com)
